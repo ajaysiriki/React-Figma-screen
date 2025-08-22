@@ -1,0 +1,13 @@
+{
+    "auto_allow": [
+      "ls",
+      "cat",
+      "npm install",
+      "git status",
+      "git add .",
+      "pytest"
+    ],
+    "auto_deny": [
+      "rm -rf"
+    ]
+  }
